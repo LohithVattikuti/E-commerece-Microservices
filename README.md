@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Microservices Platform
+# ShopStream🛍️ E-commerce Microservices Platform
 
 <div align="center">
   <strong>A Modern, Cloud-Native E-commerce Solution</strong>
